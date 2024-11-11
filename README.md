@@ -1,4 +1,4 @@
-https://github.com/omkarsp/Unity-Toast-Snackbar-Package/releases/tag/v1.0
+Download package: https://github.com/omkarsp/Unity-Toast-Snackbar-Package/releases/tag/v1.0
 
 # Toast Snackbar Package
 
