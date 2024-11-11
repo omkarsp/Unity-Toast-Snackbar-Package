@@ -1,3 +1,5 @@
+https://github.com/omkarsp/Unity-Toast-Snackbar-Package/releases/tag/v1.0
+
 # Toast Snackbar Package
 
 A Unity package for displaying Toast messages on Android and Snackbar notifications on iOS.
